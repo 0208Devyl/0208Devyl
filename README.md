@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0208Devyl
-- 👀 I’m currently interested/investing in webdesign (Front-end for now)
-- 🌱 I’m currently learning CSS
+- 👀 I’m currently interested/investing in C++ and Arduino (both software and hardware)
+- 🌱 I’m currently learning about and improving my skills in C++.
 - 📫 How to reach me: t.veerbeek@hotmail.nl
 
 <!---
